@@ -5,7 +5,7 @@
 
     O'Tayo adeshina
     otayo.a@gmail.com
-   DevOps Engineer
+    Solutio Architect
 
 # THANKS
 
@@ -14,4 +14,4 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, AJAX
-    jQuery, Modernizr
+    jQuery, Modernizr, Docker
