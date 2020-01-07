@@ -6,6 +6,6 @@ Learning
 
 
 ## Git and GitHub Training 
-comparison
+Devops comparison
 
 
