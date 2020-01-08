@@ -5,12 +5,12 @@ I am modifying before rebase
 
     O'Tayo adeshina
     otayoadeshina@gmail.com
-    DevOps Engineer
+    DevOps Engineer Level III
 
 # THANKS
 
     Appreciate to my family!
-
+    Thanking Dupe and my Daughters!
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, AJAX
