@@ -3,6 +3,10 @@
 I am modifying before rebase
 
 Doing some changes in local
+
+Trying to create a a conflict
+creating conflict
+
 # TEAM
 
     O'Tayo adeshina
